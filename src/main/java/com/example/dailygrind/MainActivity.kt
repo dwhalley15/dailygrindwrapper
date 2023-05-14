@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         webView = findViewById(R.id.webView)
         webView.webViewClient = WebViewClient()
-        webView.loadUrl("https://dailygrind.davidwhalleyprofile.repl.co")
+        webView.loadUrl("http://dailygrind.hyperphp.com")
         webView.settings.javaScriptEnabled = true
         webView.settings.javaScriptCanOpenWindowsAutomatically = true
         webView.settings.setSupportZoom(true)
