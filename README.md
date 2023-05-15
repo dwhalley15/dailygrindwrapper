@@ -8,14 +8,6 @@ The DailyGrindWrapper is a Kotlin wrapper library for the DailyGrind API, provid
 - Time Tracking: Retrieve time logs for tasks and analyze productivity.
 - User Authentication: Securely authenticate with the DailyGrind Web Application.
 
-## Installation
-
-You can add the DailyGrindWrapper library to your Kotlin project by adding the following dependency to your Gradle build file:
-
-dependencies {
-    implementation 'com.example:dailygrindwrapper:1.0.0'
-}
-
 ## Contributing 
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please follow the project's code of conduct.
